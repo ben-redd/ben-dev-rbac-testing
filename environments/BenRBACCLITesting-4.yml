@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "4"
+mappingDefinitions:
+  DESTINATION:
+    database: BEN_EDW
+    schema: RBAC_CLI_Testing_ENV
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+name: Ben RBAC CLI Testing
+type: Environment
